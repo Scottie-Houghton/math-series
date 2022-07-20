@@ -14,5 +14,5 @@ def lucas(n):
     else:
         return lucas(n-1) + lucas(n-2)
 
-def sum_series(n):
+def sum_series(n, a, b):
     return 0
